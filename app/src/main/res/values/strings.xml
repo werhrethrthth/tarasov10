@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="zametka">Напишите здесь заметку</string>
+    <string name="Name">Name</string>
+    <string name="nextTip">Другая заметка</string>
+    <string name="textPersonName">Напишите здесь заметку</string>
+</resources>
